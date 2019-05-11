@@ -2,4 +2,14 @@ theme: jekyll-theme-architect
 # Site settings
 title: welcome to cassyang's blog
 description: Have Fun!
+author: cassyang
+email: kinfai_yeong@outlook.com
 ...
+
+---
+author: cassyang
+comments: true
+date: 2019-03-01
+layout: post
+title: pymongo
+---
