@@ -1,7 +1,5 @@
 theme: jekyll-theme-architect
 # Site settings
-title: cassyang
-SEOTitle: cassyang的博客 | cassyang Blog
-url: "https://cassyang.github.io"
-baseurl: ""
+title: welcome to cassyang's blog
+description: Have Fun!
 ...
