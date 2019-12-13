@@ -26,6 +26,6 @@ vim简单的配置
 ---
 [vim简单的配置](https://github.com/cassyang/cassyang.github.io/blob/master/_post/2019-7-15-vim%E7%AE%80%E5%8D%95%E7%9A%84%E9%85%8D%E7%BD%AE.md)
 
-进程/端口号互查
+linux指令相关
 ---
-[进程/端口号互查](https://github.com/cassyang/cassyang.github.io/blob/master/_post/20190828%20linux%E6%8C%87%E4%BB%A4.md)
+[linux指令相关](https://github.com/cassyang/cassyang.github.io/blob/master/_post/20190828%20linux%E6%8C%87%E4%BB%A4.md)
