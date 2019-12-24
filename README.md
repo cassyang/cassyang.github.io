@@ -30,6 +30,6 @@ linux指令相关
 ---
 [linux指令相关](https://github.com/cassyang/cassyang.github.io/blob/master/_post/20190828%20linux%E6%8C%87%E4%BB%A4.md)
 
-boost.asio学习
+boost学习
 ---
-[boost.asio学习](https://github.com/cassyang/cassyang.github.io/blob/master/_post/20191224boost.asio.md)
+[boost学习](https://github.com/cassyang/cassyang.github.io/blob/master/_post/20191224boost.asio.md)
