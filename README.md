@@ -33,3 +33,7 @@ linux指令相关
 boost学习
 ---
 [boost学习](https://github.com/cassyang/cassyang.github.io/blob/master/_post/20191224boost.asio.md)
+
+python中内置变量的赋值
+---
+[python中内置变量的赋值](https://github.com/cassyang/cassyang.github.io/blob/master/_post/2020-4-28%20python%E4%B8%AD%E5%86%85%E7%BD%AE%E5%8F%98%E9%87%8F%E7%9A%84%E8%B5%8B%E5%80%BC.md)
