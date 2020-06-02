@@ -19,6 +19,13 @@
 
 使用
 ```
+svn cp http://xxx@rev http://xxx2
+svn mv http://xxx http://xxx3
+svn mv http://xxx2 http://xxx
+svn rm http://xxx3
+```
+或是
+```
 svn copy 目标文件/文件夹 -r 正确版本 临时文件名
 svn delete  目标文件/文件夹
 svn copy 临时文件名 目标文件/文件夹
@@ -29,4 +36,9 @@ svn ci *
 #### 过程中的小插曲
 
 在机器上操作时，可能会出现tree conflict，这时候只是svn revert 可能会有问题，需要svn revert --depth=infinity 即可
+
+#### 收尾工作
+
+处理好这一部分之后需要研究一下为啥会出现这个问题，重新做了一次操作，发现这次啥情况都没有了- -|||
+以后做这类操作的时候还是要注意下不要提交，先在本地操作好之后再上传~
 
