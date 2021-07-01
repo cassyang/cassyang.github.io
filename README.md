@@ -1,3 +1,6 @@
+就当我在乱写
+---
+
 pymongo
 ---
 [pymongo](https://github.com/cassyang/cassyang.github.io/blob/master/_post/2019-3-1-pymongo.md)
