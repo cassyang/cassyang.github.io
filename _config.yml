@@ -1,15 +1,15 @@
 theme: jekyll-theme-architect
 # Site settings
-title: welcome to cassyang's blog
-description: Have Fun!
-author: cassyang
+title: 随手记下的感触
+description: 喜欢我请联系我
+author: kinfai
 email: kinfai_yeong@outlook.com
 ...
 
 ---
-author: cassyang
+author: kinfai 
 comments: true
 date: 2019-03-01
 layout: post
-title: pymongo
+title: 就当我在乱写
 ---
